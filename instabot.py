@@ -1,5 +1,4 @@
 import instaloader
-from instaloader import Profile
 import stdiomask
 import os
 
